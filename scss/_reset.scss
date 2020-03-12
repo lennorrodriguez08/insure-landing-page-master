@@ -1,0 +1,37 @@
+html {
+   box-sizing: border-box;
+}
+
+*, *::after, *::before {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+body {
+   font-family: 'Karla', sans-serif;
+   line-height: 1.6;
+   color:hsl(273, 4%, 51%);
+}
+
+a {
+   text-decoration: none;
+}
+
+ul {
+   list-style: none;
+}
+
+p {
+   margin-bottom: 0.5rem;
+}
+
+h1 {
+   margin: 0.5rem 0;
+   font-family: 'DM Serif Display', sans-serif;
+   font-size: 3.5rem;
+}
+
+img {
+   width: 100%;
+}
